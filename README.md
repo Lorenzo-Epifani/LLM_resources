@@ -79,12 +79,9 @@ TODO
 ---
 
 ## Tool e Software
-TODO
-- **Nome del Tool**  
-  _Descrizione_: Breve descrizione della funzionalità del tool.  
-  _Link per il Download o Documentazione_: [Nome del Link](link)  
-  _Licenza o Prezzo_: Specifica del costo, licenza o disponibilità gratuita.
 
+- **[LangChain](https://www.langchain.com/)**  
+  _Un framework per costruire con gli LLM concatenando componenti interoperabili_
 ---
 
 ## Dataset
